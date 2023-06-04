@@ -16,7 +16,7 @@ monthly_challenges = {
     "september": "Dont use your phone more than hour per day",
     "october": "Work out at least 30 minutes every day!",
     "november": "Don't watch netflix entire month",
-    "december": "Learn spanish everyday"
+    "december": None
 }
 
 
