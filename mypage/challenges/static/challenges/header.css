@@ -1,0 +1,22 @@
+header {
+    background-color: #7fb42a;
+}
+
+nav {
+    margin-left: 20px;
+    padding-top: 10px;
+    font-size: large;
+    font-weight: 850;
+}
+
+nav:hover {
+    font-weight:900;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgba(165, 42, 42, 0.747);
+}
